@@ -1,0 +1,53 @@
+.hero{
+    background: linear-gradient(135deg,#ef4444,#dc2626);
+    padding:18px;
+    border-radius:16px;
+    color:white;
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.hero h1{
+    font-size:2.2rem;
+    margin:0;
+}
+
+.hero p{
+    margin-top:8px;
+    font-size:.95rem;
+}
+
+.result-card{
+    padding:20px;
+    border-radius:15px;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+.matang{
+    background:#FEE2E2;
+    color:#B91C1C;
+}
+
+.setengah{
+    background:#FFEDD5;
+    color:#EA580C;
+}
+
+.mentah{
+    background:#DCFCE7;
+    color:#15803D;
+}
+
+.info-box{
+    background:#F8FAFC;
+    padding:15px;
+    border-radius:12px;
+    border:1px solid #E2E8F0;
+}
+
+.footer{
+    text-align:center;
+    color:gray;
+    margin-top:30px;
+}
